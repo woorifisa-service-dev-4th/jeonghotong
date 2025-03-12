@@ -35,3 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Spring Boot 설정 파일 (환경 변수 포함) ###
+application.yml
+application.properties
+.env
